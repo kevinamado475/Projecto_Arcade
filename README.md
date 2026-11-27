@@ -8,7 +8,6 @@
 ## Descripción del proyecto
 Este proyecto consiste en una aplicación de consola desarrollada en Python que simula una máquina recreativa con dos minijuegos clásicos: **Piedra, Papel o Tijera** (jugando contra un robot con elecciones aleatorias en dos modalidades de partida) y **Adivinar el Número** (con sistema de pistas y contador de intentos).
 
-El objetivo de la aplicación es ofrecer un menú interactivo continuo donde el usuario pueda elegir a qué juego quiere jugar, disputar tantas partidas como desee y salir del programa de manera controlada.
 
 ## Estructura del código
 El proyecto sigue una arquitectura modular dividida en tres archivos principales dentro de la misma carpeta:
