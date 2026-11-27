@@ -1,3 +1,4 @@
+# importa Random para que cualquier cosa 
 import random
 
 
